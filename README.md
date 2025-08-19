@@ -22,4 +22,4 @@ I’m a UX/UI Designer focused on crafting intuitive, accessible, and visually e
 - **Collaborative Approach:** Partnering closely with cross-functional teams to achieve impactful results
 
 ## 📬 Let’s Connect
-I’m always open to collaboration and new opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/brunaczarnobay) or email me at **brunamaraf1@gmail.com**.
+I’m always open to collaboration and new opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/bruna-czarnobay/) or email me at **brunamaraf1@gmail.com**.
