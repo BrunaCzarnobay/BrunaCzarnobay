@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Bruna Czarnobay
 
-### UX/UI Designer | Figma | Framer | Adobe CC | Exploring Blockchain & Bitcoin 🌐
-
+### UX/UI Designer | Figma | Framer | Adobe CC | Bitcoiner
 I’m a UX/UI Designer focused on crafting intuitive, accessible, and visually engaging digital experiences. Currently, I work at a multinational Italian company while also taking on freelance projects, which allows me to balance structured design processes with creative flexibility. I’m deeply interested in how design can simplify complex systems, enhance user satisfaction, and deliver tangible value to both users and businesses. Outside of work, I explore emerging technologies, particularly Bitcoin and blockchain, and actively engage with communities that drive innovation.
 
 ## 💼 Skills & Tools
